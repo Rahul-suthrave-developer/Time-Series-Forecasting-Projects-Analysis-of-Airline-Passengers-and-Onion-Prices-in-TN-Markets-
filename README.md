@@ -1,10 +1,7 @@
-# 📈 Time Series Analysis of Airline Passengers and Onion Prices in TN Markets
+# 📈 Time Series Forecasting Projects Analysis of Airline Passengers and Onion Prices in TN Markets
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1o07Q1Lt1O5hPHKHEQnbQu5zR6CMeVO4Z/view?usp=sharing)
 
-# 📊 Time Series Forecasting Projects
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
 ## 📌 Repository Overview
 
